@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     int x, y;
-    cout << "Hello World!\n";
+    cout << "Hello World!!\n";
     cout << "Give me two integers: " << endl;
     cin >> x >> y;
     cout << "addition: " << sum(x,y) << endl;
