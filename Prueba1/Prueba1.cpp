@@ -2,11 +2,16 @@
 //
 
 #include <iostream>
+<<<<<<< HEAD
 #include "math.h";
+=======
+#include "text.h"
+>>>>>>> df44b4be6e9950af1f9694c9ebd1e19cbbee3293
 using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
     int x, y;
     cout << "Hello World!\n";
     cout << "Give me two integers: " << endl;
@@ -15,4 +20,7 @@ int main()
     cout << "substraction: " << subs(x, y) << endl;
     cout << "multiplication: " << mult(x, y) << endl;
     cout << "division: " << division(x, y) << endl;
+=======
+    print_hello();
+>>>>>>> df44b4be6e9950af1f9694c9ebd1e19cbbee3293
 }

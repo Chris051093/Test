@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="math.cpp" />
     <ClCompile Include="Prueba1.cpp" />
+    <ClCompile Include="text.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="text.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math.h" />
