@@ -2,10 +2,10 @@
 //
 
 #include <iostream>
-
+#include "text.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+    print_hello();
 }
